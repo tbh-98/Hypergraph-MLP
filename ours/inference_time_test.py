@@ -291,7 +291,7 @@ if __name__ == '__main__':
     parser.add_argument('--dname', default='walmart-trips-100')
     # method in ['SetGNN','CEGCN','CEGAT','HyperGCN','HGNN','HCHA']
     parser.add_argument('--method', default='AllSetTransformer')
-    parser.add_argument('--epochs', default=500, type=int)
+    parser.add_argument('--epochs', default=1, type=int)
     # Number of runs for each split (test fix, only shuffle train/val)
     parser.add_argument('--runs', default=20, type=int)
     parser.add_argument('--cuda', default=0, choices=[-1,0,1,2,3,4,5,6,7], type=int)
