@@ -2,7 +2,7 @@
 
 This is the repo for our paper: [Hypergraph-MLP: Learning on Hypergraphs without Message Passing](https://github.com/tbh-98/Hypergraph-MLP).
 
-## Enviroment requirement:
+## Recommend Environment:
 ```
 conda create -n "hgmlp" python=3.7
 conda activate hgmlp
@@ -20,7 +20,7 @@ pip install tqdm
 pip install scipy
 pip install matplotlib
 ```
-## Generate dataset from raw data.
+## Data Preparation:
 
 To generate a dataset for training using PyG or DGL, please set up the following three directories:
 ```
