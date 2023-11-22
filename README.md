@@ -37,7 +37,7 @@ p2raw: './data/AllSet_all_raw_data/'
 p2dgl_data: './data/dgl_data_raw/'
 ```
 
-Next, unzip the raw data zip file into `p2raw`. The raw data zip file can be found in this [link](https://github.com/jianhao2016/AllSet/tree/main/data/raw_data)
+Next, unzip the raw data zip file into `p2raw`. The raw data zip file can be found in this [link](https://github.com/jianhao2016/AllSet/tree/main/data/raw_data).
 
 ## Acknowledgement
 
