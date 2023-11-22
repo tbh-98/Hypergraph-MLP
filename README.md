@@ -2,6 +2,14 @@
 
 This is the repo for our paper: [Hypergraph-MLP: Learning on Hypergraphs without Message Passing](https://github.com/tbh-98/Hypergraph-MLP).
 
+## Overview
+
+A quick summary of different folders:
+
+- 'baselines' contains the source code for our baselines.
+
+- 'ours' contains the source code for our Hypergraph-MLP.
+
 ## Recommend Environment:
 ```
 conda create -n "hgmlp" python=3.7
@@ -29,16 +37,7 @@ p2raw: './data/AllSet_all_raw_data/'
 p2dgl_data: './data/dgl_data_raw/'
 ```
 
-Next, unzip the raw data zip file into `p2raw`. The raw data zip file can be found in this [link](https://github.com/jianhao2016/AllSet/tree/main/data/raw_data).
-
-## Overview
-
-A quick summary of different folders:
-
-- 'baselines' contains the source code for our baselines.
-
-- 'ours' contains the source code for our Hypergraph-MLP.
-
+Next, unzip the raw data zip file into `p2raw`. The raw data zip file can be found in this [link](https://github.com/jianhao2016/AllSet/tree/main/data/raw_data)
 
 ## Acknowledgement
 
