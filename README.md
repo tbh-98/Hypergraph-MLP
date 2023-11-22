@@ -33,13 +33,11 @@ Next, unzip the raw data zip file into `p2raw`. The raw data zip file can be fou
 
 ## Overview
 
-This code is based on the official code of LaneGCN ([Paper](https://arxiv.org/pdf/2007.13732.pdf); [Github](https://github.com/uber-research/LaneGCN)). 
-
 A quick summary of different folders:
 
-- Single Modal contains the source code for the model with proposed collaborative uncertainty framework in single-modal trajectory forecasting.
+- 'baselines' contains the source code for our baselines.
 
-- Multi Modal contains the source code for the model with proposed collaborative uncertainty framework in multi-modal trajectory forecasting.
+- 'ours' contains the source code for our Hypergraph-MLP.
 
 
 ## Acknowledgement
