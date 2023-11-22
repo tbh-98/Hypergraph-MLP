@@ -6,7 +6,7 @@ This is the repo for our paper: [Hypergraph-MLP: Learning on Hypergraphs without
 
 A quick summary of different folders:
 
-- 'baselines' contains the source code for our baselines.
+- 'baselines_hypergnn' contains the source code for our baseline hypergraph neural networks.
 
 - 'ours' contains the source code for our Hypergraph-MLP.
 
