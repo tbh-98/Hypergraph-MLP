@@ -6,7 +6,6 @@ This is the repo for our paper: [Hypergraph-MLP: Learning on Hypergraphs without
 
 conda create -n "hgmlp" python=3.7
 conda activate hgmlp
-
 conda install pytorch==1.4.0 torchvision==0.5.0 cudatoolkit=10.0 -c pytorch
 pip install torch-scatter==2.0.4 -f https://pytorch-geometric.com/whl/torch-1.4.0+cu100.html
 pip install torch-sparse==0.6.0 -f https://pytorch-geometric.com/whl/torch-1.4.0+cu100.html
