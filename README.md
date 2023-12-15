@@ -1,6 +1,6 @@
 # Hypergraph-MLP
 
-This is the repo for our paper: [Hypergraph-MLP: Learning on Hypergraphs without Message Passing](https://github.com/tbh-98/Hypergraph-MLP).
+This is the repo for our ICASSP 2024 paper: [Hypergraph-MLP: Learning on Hypergraphs without Message Passing](https://github.com/tbh-98/Hypergraph-MLP).
 
 ## Overview
 
