@@ -48,8 +48,8 @@ This code is based on the official code of AllSet ([Paper](https://openreview.ne
 If you use this code, please cite our paper:
 
 ```
-@inproceedings{tang2023hypergraph,
-  title={Learning Hypergraphs From Signals With Dual Smoothness Prior},
+@inproceedings{tang2024hypergraph,
+  title={Hypergraph-MLP: Learning on Hypergraphs without Message Passing},
   author={Tang, Bohan and Chen, Siheng and Dong, Xiaowen},
   booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
   year={2024},
