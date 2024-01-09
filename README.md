@@ -1,6 +1,6 @@
 # Hypergraph-MLP
 
-This is the repo for our ICASSP 2024 paper: [Hypergraph-MLP: Learning on Hypergraphs without Message Passing](https://github.com/tbh-98/Hypergraph-MLP).
+This is the repo for our ICASSP 2024 paper: [Hypergraph-MLP: Learning on Hypergraphs without Message Passing](https://arxiv.org/pdf/2312.09778).
 
 ## Overview
 
@@ -48,7 +48,13 @@ This code is based on the official code of AllSet ([Paper](https://openreview.ne
 If you use this code, please cite our paper:
 
 ```
-
+@inproceedings{tang2023hypergraph,
+  title={Learning Hypergraphs From Signals With Dual Smoothness Prior},
+  author={Tang, Bohan and Chen, Siheng and Dong, Xiaowen},
+  booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  year={2024},
+  organization={IEEE}
+}
 ```
 
 
